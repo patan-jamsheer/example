@@ -1,0 +1,13 @@
+
+div{
+  margin:10px 20px 30px 40px ;
+  border:10px solid red;
+  width:450px;
+  font-weight:10px;
+  text-transform:capitalize;
+  text-align:center;
+  color:blue;
+}
+body{
+  margin-left:200px
+}
