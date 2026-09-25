@@ -18,7 +18,6 @@ function App(){
     <button onClick={()=>{setName("");setAge();setEmail("");}}> clear the content!</button>
     <hr/><br/>
     <h1>NAME:{name}</h1>
-    <h1>age:{age}</h1>
     
     <hr/><br/>
       </div>
