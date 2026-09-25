@@ -19,7 +19,7 @@ function App(){
     <hr/><br/>
     <h1>NAME:{name}</h1>
     <h1>age:{age}</h1>
-    <h1>email:{email}</h1>
+    
     <hr/><br/>
       </div>
   </>)
